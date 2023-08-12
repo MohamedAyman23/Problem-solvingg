@@ -1,2 +1,2 @@
 # Problem-solving
-Some problems solving in c programming language 
+## Some problems solving in a c programming language 
